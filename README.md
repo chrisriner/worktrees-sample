@@ -12,6 +12,7 @@ some new text
 
 ```
 index.html        The home page
+contact.html      Contact page with a contact form (UI only)
 css/styles.css    All site styles
 js/main.js        Footer year + nav highlighting
 README.md         This file
