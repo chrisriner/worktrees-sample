@@ -6,6 +6,8 @@ stylesheet and script so text and new pages are easy to add.
 There is no build step, no dependencies, and no framework — just files a browser
 can open directly.
 
+some new text 
+
 ## Files
 
 ```
